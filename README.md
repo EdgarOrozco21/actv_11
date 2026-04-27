@@ -1,1 +1,2 @@
-# actv_11
+# PROYECTO FINAL FINANZAS
+proyecto finanzas utilzando agentes frameework flutter
